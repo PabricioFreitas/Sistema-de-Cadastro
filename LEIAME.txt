@@ -1,0 +1,23 @@
+################ REQUISITOS NECESSÁRIOS:
+PySide
+QT
+XAMPP, WAMP OU LAMP
+Manter a estrutura de pastas, todos os arquivos devem estar na mesma pasta
+Obs: O layout pode alterar de acordo com o sistema operacional usado, assim também como as fontes
+
+
+################ MANUAL DO SISTEMA:
+O primeiro acesso se dará através do login padrão:
+login: admin
+senha: admin
+Para que se possa criar outro usuário é necessário estar logado como administrador
+também, desta mesma forma pode-se alterar a senha do mesmo.
+
+Obtendo acesso ao sistema o usuário encontrará o menu principal que conta com cinco botões, sendo eles:
+Atualizar: Atualiza a tabela sempre que o usuário queira ver alterações na tabela.
+Cadastro de membros: Abre a janela onde é possível inserir novos cadastros de membros no sistema.
+Editar membro: Abre a janela de busca por CPF para buscar um membro e alterar seus dados.
+Excluir cadastro: Abre a janela de busca por CPF para buscar um membro e excluir seu cadastro.
+Exibir cadastros: Abre a janela de busca por CPF para buscar um membro e exibir seus dados.
+
+Obs: Após o cadastro de um novo membro ou exclusão a tabela deve ser atualizada.
